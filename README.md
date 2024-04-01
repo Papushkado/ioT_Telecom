@@ -18,6 +18,6 @@ docker compose logs -f mytb
 docker compose start mytb
 
 ```
-Ensuite le serveur se lance sur : http://localhost:9090
+Ensuite le serveur se lance sur : [http://localhost:9090](http://localhost:8080/home)
 
 Credentials : tenant@thingsboard.org / tenant
